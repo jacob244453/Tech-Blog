@@ -1,0 +1,16 @@
+[{
+    "text": "user 2 and post 2 comment comment",
+    "user_id": 2,
+    "post_id": 2
+},
+{
+    "text": "user 1 and post 2  comment comment",
+    "user_id": 1,
+    "post_id": 2
+},
+{
+    "text": "User 2 and post 1 comment comment.",
+    "user_id": 2,
+    "post_id": 1
+}
+]
