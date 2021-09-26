@@ -17,5 +17,14 @@
     "express-session": "^1.17.2",
     "mysql2": "^2.3.0",
     "sequelize": "^6.6.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacob244453/Tech-Blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jacob244453/Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/jacob244453/Tech-Blog#readme"
 }
